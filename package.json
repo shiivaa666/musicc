@@ -1,0 +1,38 @@
+{
+  "//1": "AceBots Code Development",
+  "name": "cerulean-bittersweet-coral",
+  "version": "0.0.1",
+  "description": "Abone Olmayı Unutmayın!",
+  "main": "acebots.js",
+  "scripts": {
+    "start": "node acebots.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.4.0",
+    "erit-ytdl": "^0.1.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "genius-lyrics": "^4.0.0",
+    "lyrics-finder": "^21.4.0",
+    "path": "^0.12.7",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.2.1",
+    "string-progressbar": "^1.0.1",
+    "ytdl-core": "^4.0.5",
+    "ytdl-core-discord": "^1.2.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/join/3678810c-2f78-4117-81c2-e97f416996bb"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": "AceBots"
+}
